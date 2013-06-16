@@ -1,7 +1,7 @@
 { "type": "GeometryCollection",
   "geometries": [
     { "type": "Point",
-      "coordinates": [40.76727216, -73.99392888]
+      "coordinates": [-73.99392888, 40.76727216]
       }
   ]
 }
